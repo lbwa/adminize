@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["sample"],{f46a:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view")},r=[],s={name:"BaseRouterView"},u=s,c=t("2877"),o=Object(c["a"])(u,a,r,!1,null,"3b84d9bc",null);n["default"]=o.exports}}]);
